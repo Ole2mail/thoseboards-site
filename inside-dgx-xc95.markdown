@@ -5,6 +5,7 @@ date: 2017-05-06 17:58:00 Z
 
 **Stage:** review
 ![001-inside-dgx-top.jpeg](/uploads/Inside-DGX-XC95/001-inside-dgx-top.jpeg)
+BATTERY Powered
 ![001-inside-dgx-top-bat.jpeg](/uploads/Inside-DGX-XC95/001-inside-dgx-top-bat.jpeg)
 
 **Description:**
@@ -24,8 +25,11 @@ Inside-DGX-XC95 is a PMOD(™) interface standalone embedded development platfor
 * Reset and management buttons step-up
 
 **Documentation:**
+
 [Please review schematic candidate in PDF - Inside-DGX-XC95](/uploads/Inside-DGX-XC95/Inside-DGX-XC95.pdf)
 
 [Please review schematic candidate in PDF - Inside-DGX-XC95 without Battery](/uploads/Inside-DGX-XC95/Inside-DGX-XC95-noBattery.pdf)
+
 ![002-inside-dgx-bot.jpeg](/uploads/Inside-DGX-XC95/002-inside-dgx-bot.jpeg)
+BATTERY Powered
 ![002-inside-dgx-bot-bat.jpeg](/uploads/Inside-DGX-XC95/002-inside-dgx-bot-bat.jpeg)

@@ -2,6 +2,12 @@
 title: Those Boards
 timezone: UTC
 collections:
+  boards:
+    title: Boards
+    output: true
+  modules:
+    title: Modules
+    output: true
   posts:
     title: Posts
     output: true
