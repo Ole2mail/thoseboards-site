@@ -1,6 +1,7 @@
 ---
 title: ZTEX-DGX
-date: 2017-05-06 21:07:00 Z
+date: 2017-05-07 11:17:00 Z
+layout: page
 ---
 
 **Stage:** review

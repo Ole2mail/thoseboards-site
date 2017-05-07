@@ -1,6 +1,7 @@
 ---
 title: pm14SEGDUO
-date: 2017-05-06 19:38:00 Z
+date: 2017-05-07 11:24:00 Z
+layout: page
 ---
 
 **Stage:** review
@@ -12,7 +13,7 @@ pm14SEGDUO is a PMOD(™) interface compatible module providing dual line 14 seg
 **Features:**
 * PMOD-DUO interface
 * 14 segments dual line display
- 
+ 
 **Documentation:**
 
 [Please review schematic candidate in PDF](/uploads/pm14SEGDUO/2016-08-15-pm14SEGDUO-Without-pullup-Scheme.pdf)

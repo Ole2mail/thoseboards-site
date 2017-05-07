@@ -1,6 +1,7 @@
 ---
 title: Arduino-DGX-XC95
-date: 2017-05-06 15:06:00 Z
+date: 2017-05-07 10:14:00 Z
+layout: page
 ---
 
 **Stage:** ready

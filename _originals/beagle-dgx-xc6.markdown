@@ -1,6 +1,7 @@
 ---
 title: Beagle-DGX-XC6
-date: 2017-05-06 20:46:00 Z
+date: 2017-05-07 11:15:00 Z
+layout: page
 ---
 
 **Stage:** review

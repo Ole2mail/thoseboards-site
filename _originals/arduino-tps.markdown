@@ -1,6 +1,7 @@
 ---
 title: Arduino-TPS
-date: 2017-05-06 16:12:00 Z
+date: 2017-05-07 11:01:00 Z
+layout: page
 ---
 
 **Stage:** ready
@@ -24,7 +25,7 @@ Arduino-TPS is a PMOD(™) interface compatible Arduino-UNO based module providi
 **Documentation:**
 [View schematic in PDF](/uploads/Arduino-TPS/Arduino-TPS.pdf)
 
-[The reason we designed Arduino-TPS' PMOD connector as male](/arduino-tps-whymale/)
+[The reason we designed Arduino-TPS' PMOD connector as male](/articles/arduino-tps-whymale/)
 
 [This is a link to Arduino-MEGA2560 Fixing CH340 based devices boot-loader](/uploads/Arduino-TPS/Arduino_IDE_win32_all-in-one_fix.zip)
 

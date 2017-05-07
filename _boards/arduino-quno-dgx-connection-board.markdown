@@ -4,5 +4,5 @@ date: 2017-05-06 18:48:00 Z
 ---
 
 * **Stage:** review
-* ![preview-002-2016-09-28-Arduino-QUNO-XC95-with-Battery--PCB-3D-Top.jpeg](/uploads/Arduino-QUNO-DGX/preview-002-2016-09-28-Arduino-QUNO-XC95-with-Battery--PCB-3D-Top.jpeg)
-* [Arduino-QUNO-DGX - connection board](/arduino-quno-dgx/)
+* ![preview-Arduino-QUNO-XC95 without Battery Top.jpeg](/uploads/Arduino-QUNO-DGX/preview-Arduino-QUNO-XC95%20without%20Battery%20Top.jpeg)
+* [Arduino-QUNO-DGX - connection board](/originals/arduino-quno-dgx/)

@@ -1,6 +1,7 @@
 ---
 title: AN-DGX
-date: 2017-05-06 21:23:00 Z
+date: 2017-05-07 11:19:00 Z
+layout: page
 ---
 
 **Stage:** review

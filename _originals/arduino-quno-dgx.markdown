@@ -1,6 +1,7 @@
 ---
 title: Arduino-QUNO-DGX
-date: 2017-05-06 15:09:00 Z
+date: 2017-05-07 10:52:00 Z
+layout: page
 ---
 
 **Stage:** review

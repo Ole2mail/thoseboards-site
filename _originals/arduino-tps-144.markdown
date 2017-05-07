@@ -1,6 +1,7 @@
 ---
 title: Arduino-TPS-144
-date: 2017-05-06 17:28:00 Z
+date: 2017-05-07 11:11:00 Z
+layout: page
 ---
 
 **Stage:** ready
@@ -23,6 +24,6 @@ Arduino-TPS-144 is a PMOD(™) interface compatible Arduino-UNO based module pro
 **Documentation:**
 [View schematic in PDF](/uploads/Arduino-TPS-144/A-TPS-144%20Scheme.PDF)
 
-[The reason we designed Arduino-TPS-144' PMOD connector as male](/arduino-tps-144-whymale/)
+[The reason we designed Arduino-TPS-144' PMOD connector as male](/articles/arduino-tps-144-whymale/)
 
 ![012-A-TPS-144---back.png](/uploads/Arduino-TPS-144/012-A-TPS-144---back.png)

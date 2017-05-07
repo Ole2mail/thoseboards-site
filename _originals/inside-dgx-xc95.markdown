@@ -1,6 +1,7 @@
 ---
 title: Inside-DGX-XC95
-date: 2017-05-06 17:58:00 Z
+date: 2017-05-07 11:12:00 Z
+layout: page
 ---
 
 **Stage:** review

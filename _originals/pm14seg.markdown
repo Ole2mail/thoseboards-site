@@ -1,9 +1,10 @@
 ---
 title: pm14SEG
-date: 2017-05-06 19:23:00 Z
+date: 2017-05-07 11:22:00 Z
+layout: page
 ---
 
-**Stage:** review  
+**Stage:** review  
 ![002-pm14SEG-Top.jpeg](/uploads/pm14SEG/002-pm14SEG-Top.jpeg)
 
 **Description:**

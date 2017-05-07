@@ -2,11 +2,17 @@
 title: Those Boards
 timezone: UTC
 collections:
+  articles:
+    title: Articles
+    output: true
   boards:
     title: Boards
     output: true
   modules:
     title: Modules
+    output: true
+  originals:
+    title: Originals
     output: true
   posts:
     title: Posts
