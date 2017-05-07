@@ -32,4 +32,6 @@ Beagle-DGX is a PMOD(™) interface compatible Beaglebone Black based embedded d
 
 [View schematic in PDF](/uploads/Beagle-DGX-XC6/Beagle-DGX-0%20r1%20Scheme.PDF)
 
+[View schematic for prototype rework edition in PDF](/uploads/Beagle-DGX-XC6/Beagle-DGX-XC6%20r1%20rework-edition.PDF)
+
 ![Beagle-DGX Bottom.jpg](/uploads/Beagle-DGX-XC6/Beagle-DGX%20Bottom.jpg)
