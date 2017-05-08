@@ -4,7 +4,7 @@ date: 2017-05-07 11:15:00 Z
 layout: page
 ---
 
-**Stage:** review
+**Stage:** rework
 
 ![Beagle-DGX Angle.jpg](/uploads/Beagle-DGX-XC6/Beagle-DGX%20Angle.jpg)
 ![Beagle-DGX Top.jpg](/uploads/Beagle-DGX-XC6/Beagle-DGX%20Top.jpg)
@@ -32,6 +32,6 @@ Beagle-DGX is a PMOD(™) interface compatible Beaglebone Black based embedded d
 
 [View schematic in PDF](/uploads/Beagle-DGX-XC6/Beagle-DGX-0%20r1%20Scheme.PDF)
 
-[View schematic for prototype rework edition in PDF](/uploads/Beagle-DGX-XC6/Beagle-DGX-XC6%20r1%20rework-edition.PDF)
+[View schematic for prototype rework edition in PDF](/uploads/Beagle-DGX-XC6/Beagle-DGX-XC6%20r1%20Scheme%20rework-edition.PDF)
 
 ![Beagle-DGX Bottom.jpg](/uploads/Beagle-DGX-XC6/Beagle-DGX%20Bottom.jpg)
