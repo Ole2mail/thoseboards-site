@@ -17,6 +17,9 @@ collections:
   posts:
     title: Posts
     output: true
+  retired:
+    title: Retired
+    output: true
   uploads:
     title: Uploads
     output: true

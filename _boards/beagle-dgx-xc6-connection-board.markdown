@@ -1,6 +1,7 @@
 ---
 title: Beagle-DGX-XC6 - connection board
 date: 2017-05-06 20:49:00 Z
+position: 5
 ---
 
 * **Stage:** rework

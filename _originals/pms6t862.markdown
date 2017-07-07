@@ -1,0 +1,28 @@
+---
+title: pmS6T862
+date: 2017-06-07 19:31:00 Z
+---
+
+Overview:
+
+Telit GM862-GPS based board for EVK2 or PMOD(TM) DUO or DGX RIF connection. S6EVK2 series M2M modem intelligence board for development/industrial use of GSM/GPRS/GPS services. Multisim interface provided for intelligence border-to-border roaming-avoid functionality. NMEA 2K interface for Boat/IntelliHome integration Spartan 6 intelligence embedded with the modem allow hardware/softcore processor data management solutions.
+
+Includes:
+
+Telit modem GM862-GPS series
+SMA antenna connector
+Independent power converter with income voltage 5-18V
+SIM holder and external MULTISIM port
+EVK2 interface for original Telit devkit compatibility
+Interfaces intelligence implemented with a help of Xilinx Spartan 6:
+
+PMOD(TM) DUO interface allowing Digilent/Xilinx dev boards connectivity
+RIF interface allowing DGX boards family merge over standard IDE40 cable
+RIF also provide power sharing between modem and DGX boards
+RIF allow up to 3 direct PMOD(TM) modules connectivity
+CAN transceiver with awake on CAN bus power present feature
+Documentation:
+
+View schematic in PDF
+
+Part number: 101401

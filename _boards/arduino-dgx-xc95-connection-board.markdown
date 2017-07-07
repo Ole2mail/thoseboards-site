@@ -1,6 +1,7 @@
 ---
 title: Arduino-DGX-XC95 - connection board
 date: 2017-05-06 18:49:00 Z
+position: 3
 ---
 
 * **Stage:** ready

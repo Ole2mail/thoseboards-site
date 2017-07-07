@@ -1,6 +1,7 @@
 ---
 title: pmPLL
 date: 2017-05-08 10:37:00 Z
+position: 22
 layout: page
 ---
 
@@ -12,12 +13,12 @@ layout: page
 pmPLL is a PMOD(™) interface compatible module providing quad frequency synthesized clocking, reset button and power supervisor. useful for time domain based RTL applications.
 
 **Features:**
-* Crystal based 4 frequency PLL configurable synthesizer
+* Crystal based 4 frequency PLL configurable synthesis
 * 1MHz - 200MHz frequency range
-* LOCK/RESET pin for external synchronization
+* LOCK/RESET pin for external synchronisation
 * I2c interface with selectable address configuration
 * 4 profiles storage with 1 profile by default
-* 3V3 power supervisor with signaling pinout
+* 3V3 power supervisor with signalling pinout
 * default pull up reset button 
 
 **Documentation:**
