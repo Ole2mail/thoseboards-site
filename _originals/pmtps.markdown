@@ -11,9 +11,15 @@ position: 9
 ![004-pmTPS-top-v2.png](/uploads/pmTPS/004-pmTPS-top-v2.png)
 
 **Description:**
-pmTPS v1/v2 is a clockless PMOD(TM) interface compatible module providing configurable signals routing between available PMOD(TM) ports. easy configurable for UART/SPI/GPIO signal routing.
+
+pmTPS v1/v2 is a clockless PMOD(TM) interface compatible module.
+
+pmTPS provides configurable signals routing between available PMOD(TM) ports. 
+
+pmTPS is easy configurable for UART/SPI/GPIO signal routing.
 
 **Features:**
+
 * low capacity CPLD based non-volatile signal routing configuration
 * up to 5V signal IO pins tolerant
 * JTAG header for configuration upload
