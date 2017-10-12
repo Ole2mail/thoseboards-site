@@ -1,15 +1,17 @@
 ---
 title: pmUSBUART2
 date: 2017-05-08 12:48:00 Z
-position: 23
+position: 26
 layout: page
 ---
 
 **Stage:** ready
+
 ![004-pmUSBUART2-angle.jpeg](/uploads/pmUSBUART2/004-pmUSBUART2-angle.jpeg)
 ![002-pmUSBUART2-top.jpeg](/uploads/pmUSBUART2/002-pmUSBUART2-top.jpeg)
 
 **Overview:**
+
 The USBUART2 Pmod(TM) compatible module provides a USB to UART interface powered by the FTDI FT232RL. The USBUART2 Pmod(TM) compatible uses the standard 12-pin connector to connect to the host device and a mini USB connector to connect to a PC or other USB capable device. The FTDI chip then converts the signal from UART to USB and vice versa. USBUART2 Pmod(TM) compatible module provides full functionality of the UART interface. It's also pin compatible with DigilentInc pmodUSBUART on it's lower pinout lane, which make it useful in single lane pmod ports too. However additional and some times badly needed signals DTR, DSR, RI, DCD are provided on second, top lane of the module. Jumper switch allow FTDI power supply selection between either host device or the PC USB port..
 
 **Documentation:**

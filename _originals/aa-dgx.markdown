@@ -1,6 +1,7 @@
 ---
 title: AA-DGX
 date: 2017-09-27 07:45:00 Z
+position: 1
 ---
 
 **Stage:** ready

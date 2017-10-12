@@ -1,7 +1,7 @@
 ---
 title: Trenz-DGX
 date: 2017-06-07 18:03:00 Z
-position: 7
+position: 9
 ---
 
 **Stage:** ready

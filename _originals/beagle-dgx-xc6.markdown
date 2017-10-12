@@ -1,7 +1,7 @@
 ---
 title: Beagle-DGX-XC6
 date: 2017-05-07 11:15:00 Z
-position: 16
+position: 19
 layout: page
 ---
 

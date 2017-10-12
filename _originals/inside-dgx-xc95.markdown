@@ -1,7 +1,7 @@
 ---
 title: Inside-DGX-XC95
 date: 2017-05-07 11:12:00 Z
-position: 5
+position: 7
 layout: page
 ---
 
