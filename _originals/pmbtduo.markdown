@@ -24,7 +24,7 @@ pmBTDUO is a complete bluetooth interface integrated module. It combine common a
 
 **Documentation:**
 
-[View schematic in PDF](/uploads/pmBTDUO/SCH-pmodUSBUART2.pdf)
+[View schematic in PDF](/uploads/pmBTDUO/SCH_pmBTDUO.pdf)
 
 Part number: 301201
 
